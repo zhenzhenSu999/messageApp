@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # message-app
 
 a [Sails v1](https://sailsjs.com) application
@@ -24,3 +25,7 @@ This app was originally generated on Mon May 20 2019 08:48:36 GMT-0500 (Central 
 Note:  Generators are usually run using the globally-installed `sails` CLI (command-line interface).  This CLI version is _environment-specific_ rather than app-specific, thus over time, as a project's dependencies are upgraded or the project is worked on by different developers on different computers using different versions of Node.js, the Sails dependency in its package.json file may differ from the globally-installed Sails CLI release it was originally generated with.  (Be sure to always check out the relevant [upgrading guides](https://sailsjs.com/upgrading) before upgrading the version of Sails used by your app.  If you're stuck, [get help here](https://sailsjs.com/support).)
 -->
 
+=======
+# messageApp
+Message APIs built with Sail NodeJS
+>>>>>>> ecf535bf4a7164788712a648b5e085cff573c0c1
